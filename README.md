@@ -1,3 +1,3 @@
 # Texar
-Simple Text Editor
+Simple Text Editor, 
 Junior Programer's Homework
